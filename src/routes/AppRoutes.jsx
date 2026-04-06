@@ -3,8 +3,7 @@ import Home from "../pages/Home";
 import About from "../pages/About";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
-
-import MainLayout from "../layouts/MAinLayout";
+import MainLayout from "../layouts/MainLayout";
 import ProtectedDashboard from "./ProtectedDashboard";
 import AuthProtected from "./AuthProtected";
 import Products from "../pages/Products";
